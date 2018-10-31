@@ -1,0 +1,28 @@
+{
+  "name": "gatsby-starter-hello-world",
+  "description": "Gatsby hello world starter",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "emotion": "^9.2.12",
+    "emotion-server": "^9.2.12",
+    "gatsby": "^2.0.35",
+    "gatsby-cli": "^2.4.4",
+    "gatsby-plugin-emotion": "^2.0.6",
+    "gatsby-plugin-typography": "^2.2.1",
+    "gatsby-source-filesystem": "^2.0.6",
+    "gatsby-transformer-remark": "^2.1.11",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-emotion": "^9.2.12",
+    "react-typography": "^0.16.13",
+    "typography": "^0.16.17",
+    "typography-theme-fairy-gates": "^0.15.11",
+    "typography-theme-kirkham": "^0.16.3"
+  }
+}
